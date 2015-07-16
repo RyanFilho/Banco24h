@@ -5,3 +5,10 @@ c:\users\ryan\documents\visual studio 2013\Projects\CaixaBanco\UnitTestProject1\
 c:\users\ryan\documents\visual studio 2013\Projects\CaixaBanco\UnitTestProject1\bin\Debug\ATM.pdb
 c:\users\ryan\documents\visual studio 2013\Projects\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 c:\users\ryan\documents\visual studio 2013\Projects\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\bin\Debug\ATM.dll
+C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\bin\Debug\ATM.pdb
+C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestATM.csprojResolveAssemblyReference.cache
+C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

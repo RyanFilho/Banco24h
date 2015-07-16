@@ -15,7 +15,6 @@ namespace Banco
         }         
         public Cedulas sacar(int saque)
         {
-
             var cedulaSacadas = new Cedulas();            
             valorSacado = saque;
             
