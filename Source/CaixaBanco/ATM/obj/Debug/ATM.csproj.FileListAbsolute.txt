@@ -6,3 +6,8 @@ C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\ATM\obj\Debug\ATM.dll
 C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\ATM\obj\Debug\ATM.pdb
 C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\ATM\bin\Debug\ATM.dll
 C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\ATM\bin\Debug\ATM.pdb
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\ATM\bin\Debug\ATM.dll
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\ATM\bin\Debug\ATM.pdb
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\ATM\obj\Debug\ATM.dll
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\ATM\obj\Debug\ATM.pdb

@@ -12,3 +12,12 @@ C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\bin\D
 C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestATM.csprojResolveAssemblyReference.cache
 C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 C:\Users\ryan\Documents\GitHub\Banco24h\Source\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\UnitTestProject1\bin\Debug\ATM.dll
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\UnitTestProject1\bin\Debug\ATM.pdb
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestATM.csprojResolveAssemblyReference.cache
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\estagio04\Documents\GitHub\BancoCSharp\Source\CaixaBanco\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
